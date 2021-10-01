@@ -1,0 +1,8 @@
+.textfeild:focus {
+  color: blue;
+  background-color: yellow;
+  border-color: blue;
+}
+.textfeild:focus::placeholder {
+  color: blue;
+}
